@@ -8,6 +8,10 @@
 
 > Il programma consente di scambiare messaggi di testo con un client mediante una maschera grafica, utilizzando i socket.
 
+### Diagramma di sequenza
+
+<img src="https://raw.githubusercontent.com/ITISEnricoFermi/socket-chat-server/master/diagrams/Class%20Diagram.JPG" alt="Sequence Diagram">
+
 ## Authors
 
 * **Oleksandr Soludchyk** - [Tox1k](https://github.com/Tox1k)
